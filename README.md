@@ -1,2 +1,3 @@
-# Samadrita Ghosh - Portfolio 
-This is my personal portfolio, made using HTML and CSS. 
+# https://samadrita.netlify.app
+
+This is my portfolio, made using HTML and CSS. 
